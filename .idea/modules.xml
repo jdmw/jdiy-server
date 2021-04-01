@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jd-server.iml" filepath="$PROJECT_DIR$/jd-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-connector/jd-server-connector.iml" filepath="$PROJECT_DIR$/jd-server-connector/jd-server-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-core/jd-server-core.iml" filepath="$PROJECT_DIR$/jd-server-core/jd-server-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-parent/jd-server-parent.iml" filepath="$PROJECT_DIR$/jd-server-parent/jd-server-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-plugins-proxy/jd-server-plugins-proxy.iml" filepath="$PROJECT_DIR$/jd-server-plugins-proxy/jd-server-plugins-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-protocol-http/jd-server-protocol-http.iml" filepath="$PROJECT_DIR$/jd-server-protocol-http/jd-server-protocol-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-servlet/jd-server-servlet.iml" filepath="$PROJECT_DIR$/jd-server-servlet/jd-server-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-starter/jd-server-starter.iml" filepath="$PROJECT_DIR$/jd-server-starter/jd-server-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-server-util/jd-server-util.iml" filepath="$PROJECT_DIR$/jd-server-util/jd-server-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd-server.jd-server-acceptor.iml" filepath="$PROJECT_DIR$/.idea/modules/jd-server.jd-server-acceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd-server.jd-server-acceptor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jd-server.jd-server-acceptor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd-server.jd-server-acceptor.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jd-server.jd-server-acceptor.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd-server.jd-server-io.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jd-server.jd-server-io.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd-server.jd-server-io.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jd-server.jd-server-io.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd.jd-util.iml" filepath="$PROJECT_DIR$/.idea/modules/jd.jd-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd.jd-util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jd.jd-util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jd.jd-util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jd.jd-util.test.iml" />
+    </modules>
+  </component>
+</project>

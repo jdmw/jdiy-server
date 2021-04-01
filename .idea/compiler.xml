@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jd-server-connector" />
+        <module name="jd-server-core" />
+        <module name="jd-server-parent" />
+        <module name="jd-server-plugins-proxy" />
+        <module name="jd-server-protocol-http" />
+        <module name="jd-server-servlet" />
+        <module name="jd-server-starter" />
+        <module name="jd-server-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jd-server" target="1.8" />
+      <module name="jd-server-connector" target="1.8" />
+      <module name="jd-server-core" target="1.8" />
+      <module name="jd-server-parent" target="1.8" />
+      <module name="jd-server-plugins-proxy" target="1.8" />
+      <module name="jd-server-protocol-http" target="1.8" />
+      <module name="jd-server-servlet" target="1.8" />
+      <module name="jd-server-starter" target="1.8" />
+      <module name="jd-server-util" target="1.5" />
+      <module name="jd-server.jd-server-acceptor.main" target="1.8" />
+      <module name="jd-server.jd-server-acceptor.test" target="1.8" />
+      <module name="jd-server.jd-server-io.main" target="1.8" />
+      <module name="jd-server.jd-server-io.test" target="1.8" />
+      <module name="jd.jd-util.main" target="1.8" />
+      <module name="jd.jd-util.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
